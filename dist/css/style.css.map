@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,iBAGE,SAAU,CACV,QAAS,CACT,qBAAsB,CAGxB,UAEE,yCAA8C,CAC9C,qBAAsB","file":"style.css","sourcesContent":["*,\n*::after,\n*::before {\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n}\n\nhtml,\nbody {\n  font-family: 'Courier New', Courier, monospace;\n  background-color: #ccc;\n}"]}
